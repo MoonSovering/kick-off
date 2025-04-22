@@ -31,7 +31,7 @@
 ### 🛠️ Equipo Técnico  
 | **Rol**              | **Nombre**    | **Superpoder**          |  
 |----------------------|---------------|-------------------------|  
-| 🦸 Líder de Proyecto | Ana Gómez     | Coordinación total      |  
+| 🦸 Líder de Proyecto | Armando Sanmartin     | Coordinación total      |  
 | 🧠 Data Scientist    | Carlos Ruiz   | Modelos IA de precisión |  
 | 💻 Backend Ninja     | Diana López   | APIs ultrarrápidas      |  
 
