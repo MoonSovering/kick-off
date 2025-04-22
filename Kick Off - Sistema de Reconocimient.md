@@ -58,23 +58,8 @@
 
 ---
 
-## 4. 🧩🤝 ROLES Y RESPONSABILIDADES  
 
-### 📌 Matriz RACI  
-| Actividad          | TI  | Seguridad | Desarrollo |  
-|--------------------|-----|-----------|------------|  
-| 🖥️ Configuración  | C   | R         | I          |  
-| 🧠 Entrenamiento IA| I   | C         | R          |  
-
-*🔑 R=Responsable, A=Aprobador, C=Consultado, I=Informado*
-
-### 💬 Comunicación  
-- 📢 **Daily:** Emojis obligatorios en Slack  
-- 🗓️ **Semanales:** GIFs en reuniones virtuales  
-
----
-
-## 5. 🗓️🚀 PLAN DE TRABAJO  
+## 4. 🗓️🚀 PLAN DE TRABAJO  
 
 ### 📅 Cronograma Épico  
 | Fase           | 📅 Fechas    | 🎁 Entregables          |  
@@ -89,7 +74,7 @@
 
 ---
 
-## 6. ⚠️ CONSIDERACIONES CLAVE  
+## 5. ⚠️ CONSIDERACIONES CLAVE  
 
 ### 🔥 Riesgos Top  
 | Riesgo                 | 🚨 Nivel   | 🛡️ Plan B                |  
